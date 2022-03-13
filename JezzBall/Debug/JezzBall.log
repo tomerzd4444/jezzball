@@ -1,0 +1,35 @@
+﻿  Game.cpp
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Wall.h(20,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(157,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(157,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(158,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(158,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(159,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(159,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(161,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(161,49): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(161,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(161,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(163,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(163,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(164,38): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(164,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(165,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(165,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(170,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(170,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(171,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(171,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(172,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(172,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(174,59): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(174,45): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(174,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(174,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(176,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(176,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(177,35): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(177,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(178,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Coding Projects\C++\JezzBall\JezzBall\src\Game.cpp(178,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  JezzBall.vcxproj -> D:\Coding Projects\C++\JezzBall\Debug\JezzBall.exe
